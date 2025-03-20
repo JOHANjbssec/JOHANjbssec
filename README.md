@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Secuirty , EthicalHacking, bugbounty.
 - 🌱 I’m currently learning cyber security.
 - 💞️ I’m looking to collaborate on any of the topics.
-- 📫 contact me over mail - 
+- 📫 contact me over mail - johupilla@gmail.com
 - 😄 Pronouns: Hacker-jbssec
 - ⚡ Fun fact: i have been into Vapt since 2-3 years , I am looking for clients if anyone wants to have thier websites or webapp or mobile apps tested.
 
